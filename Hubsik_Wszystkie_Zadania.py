@@ -2,7 +2,7 @@
     Rozwiązania Wszystkich Zadań z LAB Ze Wstępu Do Programowania
     2022/2023
 
-    v2 - 12.12.2022
+    v3 - 20.12.2022
     
     Hubsik
     
